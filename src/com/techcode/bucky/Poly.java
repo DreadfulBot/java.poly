@@ -4,7 +4,11 @@ import java.util.ArrayList;
 import java.util.Arrays;
 
 public class Poly {
+	
+	/* целая часть */
 	public ArrayList<Double> quotient;
+	
+	/* остаток */
 	public ArrayList<Double> remainder;
 	public int degree;
 	
